@@ -1,0 +1,21 @@
+.projection {
+  background: #aaa;
+}
+
+.projectionTooltip {
+  position: absolute;
+  padding: 10px;
+  background: #333;
+  border: 1px solid #222;
+  color: white;
+  box-shadow: 0px 0px 5px #999;
+  border-radius: 5px;
+  font-size: 12px;
+  margin-top: 60px;
+  margin-left: 20px;
+}
+
+.point:HOVER {
+  cursor: pointer !important;
+  stroke: #000;
+}

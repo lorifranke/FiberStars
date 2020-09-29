@@ -1,0 +1,17 @@
+.splitScreenViewColumn {
+  .radial-box {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding: 10px;
+    background: #111111aa;
+  }
+
+  .stat-box {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: #111111aa;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,24 @@
+div.radial {
+    pointer-events: none;
+}
+
+div.radial svg {
+    width: 100%;
+    height: 100%;
+}
+
+div.radial circle.main {
+    pointer-events: auto;
+}
+
+div.radial.left svg {
+
+}
+
+div.radial.right svg {
+
+}
+
+text.legend {
+    fill: white;
+}
