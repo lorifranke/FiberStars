@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FiberStars/static/css/main.aebde75a.chunk.css",
+    "main.js": "/FiberStars/static/js/main.b379160d.chunk.js",
+    "main.js.map": "/FiberStars/static/js/main.b379160d.chunk.js.map",
+    "runtime-main.js": "/FiberStars/static/js/runtime-main.0b0edef7.js",
+    "runtime-main.js.map": "/FiberStars/static/js/runtime-main.0b0edef7.js.map",
+    "static/css/2.de424728.chunk.css": "/FiberStars/static/css/2.de424728.chunk.css",
+    "static/js/2.6df4354d.chunk.js": "/FiberStars/static/js/2.6df4354d.chunk.js",
+    "static/js/2.6df4354d.chunk.js.map": "/FiberStars/static/js/2.6df4354d.chunk.js.map",
+    "index.html": "/FiberStars/index.html",
+    "precache-manifest.759f6246ed065127c7e140fb4b9d5d69.js": "/FiberStars/precache-manifest.759f6246ed065127c7e140fb4b9d5d69.js",
+    "service-worker.js": "/FiberStars/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/FiberStars/static/css/2.de424728.chunk.css.map",
+    "static/css/main.aebde75a.chunk.css.map": "/FiberStars/static/css/main.aebde75a.chunk.css.map",
+    "static/js/2.6df4354d.chunk.js.LICENSE.txt": "/FiberStars/static/js/2.6df4354d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b0edef7.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.6df4354d.chunk.js",
+    "static/css/main.aebde75a.chunk.css",
+    "static/js/main.b379160d.chunk.js"
+  ]
+}
