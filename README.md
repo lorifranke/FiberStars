@@ -1,6 +1,14 @@
 # FiberStars - Visual Comparison of Diffusion Tractography Data between Multiple Subjects
 
 ## Install & run FiberStars
+
+Clone this repository:
+
+```
+git clone https://github.com/lorifranke/FiberStars.git
+```
+Install npm: 
+
 ```
 npm install    # first time only
 npm start
