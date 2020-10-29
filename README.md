@@ -7,6 +7,9 @@ Clone this repository:
 ```
 git clone https://github.com/lorifranke/FiberStars.git
 ```
+
+Add you data in the folder public/data.
+
 Install npm: 
 
 ```
