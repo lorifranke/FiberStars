@@ -8,7 +8,8 @@ Clone this repository:
 git clone https://github.com/lorifranke/FiberStars.git
 ```
 
-Add you data in the folder public/data.
+To use the tool with your own data, put your data (.csv for meta data and the files for the fiber cluters as .vtp or .tko) in the folder public/data.
+You can convert your data as well to the 28x compressed .tko format with this tool: https://github.com/bostongfx/TRAKO and display it with FiberStars.
 
 Install npm: 
 
