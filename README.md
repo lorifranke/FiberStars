@@ -26,10 +26,12 @@ npm start
 
 ## Cite us:
 ```
-@article{franke2020fiberstars,
+@inproceedings{franke2021fiberstars,
   title={FiberStars: Visual Comparison of Diffusion Tractography Data between Multiple Subjects},
-  author={Franke, Loraine and Weidele, Daniel Karl I and Zhang, Fan and Cetin-Karayumak, Suheyla and Pieper, Steve and O'Donnell, Lauren J and Rathi, Yogesh and Haehn, Daniel},
-  journal={arXiv preprint arXiv:2005.08090},
-  year={2020}
+  author={Franke, Loraine and Weidele, Daniel Karl I and Zhang, Fan and Cetin-Karayumak, Suheyla and Pieper, Steve and O’Donnell, Lauren J and Rathi, Yogesh and Haehn, Daniel},
+  booktitle={2021 IEEE 14th Pacific Visualization Symposium (PacificVis)},
+  pages={116--125},
+  year={2021},
+  organization={IEEE}
 }
 ```
