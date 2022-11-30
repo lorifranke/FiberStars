@@ -15,6 +15,7 @@ To use the tool with your own data, navigate to the cloned repository on your lo
 Optionally, you can convert your data as well to the 28x compressed .tko format with this tool: https://github.com/bostongfx/TRAKO to display it with FiberStars.
 
 ### Install npm: 
+To run this tool in your browser, you will need `npm`, a package manager for the Node JavaScript platform. More information and the documentation can be found here: https://docs.npmjs.com/cli/v9/commands/npm
 
 ```
 npm install    # first time only
