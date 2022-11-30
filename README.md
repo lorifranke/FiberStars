@@ -28,7 +28,7 @@ where the url should point to your own github repository page where you want to 
 2. `npm run deploy`
 
 ## Demos ##
-![splitscreenview](https://user-images.githubusercontent.com/38534852/204695249-f3ce48ce-9151-4e6d-962c-aab9efca48f4.jpeg)
+![splitscreen](https://user-images.githubusercontent.com/38534852/204695496-28bda431-cd40-4967-87fe-2947fc9a5884.png)
 
 
 ## Affiliations, Collaborators and Sponsors ##
