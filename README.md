@@ -1,14 +1,18 @@
 # FiberStars - Visual Comparison of Diffusion Tractography Data between Multiple Subjects
 
-## Install & Run FiberStars:
+## Scientific Background - What is FiberStars?
 
-### Clone this repository:
+Tractography is a 3D modeling technique used to visually represent brain tracts of data collected by a special MRI technique called diffusion MRI (dMRI). This data allows researchers, doctors and clinicians to perform structural connectivity analysis of the human brain. Usually, dMRI studies aim to compare connectivity patterns across groups of subjects/patients and certain disease populations to understand abnormalities in the brain’s white matter connectivity and the distributions of biologically sensitive dMRI derived metrics. FiberStars is a visual analysis tool for analyzing dMRI data that allows an interactive visualization of brain tracts, so called 'fiber-clusters' by combining the existing 3D brain anatomy with 2D visualizations. With FiberStars, researchers can analyze and compare multiple subjects/patients in large collections of brain fibers using different types of views.
+
+## Install & Run FiberStars tool:
+
+### Clone this repository with:
 
 ```
 git clone https://github.com/lorifranke/FiberStars.git
 ```
 
-### Use your own data:
+### How to add your own data:
 
 To use the tool with your own data, navigate to the cloned repository on your local computer. Then, put your own data (this includes a .csv file containing the meta data and the files for the fiber cluters as .vtp or .tko) in the folder public/data.
 
